@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sanjoy_droid" target="blank"><img src="https://img.shields.io/twitter/follow/sanjoy_droid?logo=twitter&style=for-the-badge" alt="sanjoy_droid" /></a> </p>
 
-- 👯 I’m looking to collaborate on Startups
+- 👯 I’m looking to collaborate with Companies & Startups
 
 - 👨‍💻 All of my projects are available at [https://portfolio-delta-drab-56.vercel.app/](https://portfolio-delta-drab-56.vercel.app/)
 
