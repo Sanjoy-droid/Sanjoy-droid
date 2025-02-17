@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with Companies & Startups
 
-- 👨‍💻 All of my projects are available at [https://portfolio-delta-drab-56.vercel.app/](https://portfolio-delta-drab-56.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanjoy-droid.vercel.app/)
 
 - 📫 How to reach me **guinsanjoy34@gmail.com**
 
